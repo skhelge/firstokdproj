@@ -1,3 +1,3 @@
 <? php
-print"Welcome to Khelges world";
+      print"Welcome to Khelges world";
 ?>
